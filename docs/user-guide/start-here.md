@@ -64,7 +64,7 @@ This one is more time intensive, but it offers larger personal rewards. By creat
 
 Creating content can also be a little scary. But know that even if you're unsure of them, your ideas are valuable. And you don't need to worry about fully polishing your content. The DappSociety community is very supportive and is here to help.
 
-Create a draft of your content and share it with the group in `#accomplishments`. If you're looking for feedback or help, just ask. This is especially true if you want help rewording your ideas or improving the English grammar. Or even if you want to have your ideas translated from one language to another.
+Create a draft of your content and share it with the group in `#showcase`. If you're looking for feedback or help, just ask. This is especially true if you want help rewording your ideas or improving the English grammar. Or even if you want to have your ideas translated from one language to another.
 
 ##### Wiki
 This is our master content repository. All community content (excluding opinion pieces) can be stored here. All members can add/edit content and each document is automatically published on the community website.
