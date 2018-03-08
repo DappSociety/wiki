@@ -13,9 +13,9 @@ After introducing yourself, take a look around at all the available channels, re
 ## Participate in our Social Media Channels
 These have not been fully implemented yet because we are focusing on laying the groundwork for one thing at a time. However, any and all involvement helps. Subscribe/follow and help us spread the word.
 
-- Subscribe to the [DappSociety SubReddit](#)
-- Follow [@DappSociety on Twitter](#)
-- Subscribe to the [DappSociety Medium Publication](#)
+- Subscribe to the [DappSociety SubReddit](https://www.reddit.com/r/dappsociety/)
+- Follow [@DappSociety on Twitter](https://twitter.com/dappsociety)
+- Subscribe to the [DappSociety Medium Publication](https://medium.com/dappsociety)
 
 ## Contribute Value to DappSociety and the World
 There are many ways to contribute, and everyone can contribute in their own way.
@@ -46,7 +46,7 @@ We currently achieve group consensus on decisions through simple chat-based poll
 Each poll will list choices with a corresponding emoji. You cast your vote in the poll by reacting to the actual poll message (no other referencing messages) with the emoji that represents your choice.
 
 #### Participate in Community Meetings
-Community meetings are planned and archived in the [DappSociety Meetings Repository](#). From there you can view past meetings and keep up to date on when our next community meeting might be. You can also propose edits to any of the meeting documents, leave comments, or submit issues.
+Community meetings are planned and archived in the [DappSociety Meetings Repository](https://github.com/DappSociety/meetings). From there you can view past meetings and keep up to date on when our next community meeting might be. You can also propose edits to any of the meeting documents, leave comments, or submit issues.
 
 Meeting times are chosen through polls in `#ballot-box`, so be sure to watch out for them and let us know what times work best for you. We typically select two sessions per meeting to better accommodate all schedules.
 
@@ -57,7 +57,7 @@ Inside the `#content-kiosk` channel, community members share content they find h
 
 If you come across some interesting content you think others might enjoy, please go ahead and share it in there.
 
-However, the Content Kiosk isn't the only place for sharing content. You are also encouraged to share things in the [DappSociety SubReddit](#).
+However, the Content Kiosk isn't the only place for sharing content. You are also encouraged to share things in the [DappSociety SubReddit](https://www.reddit.com/r/dappsociety/).
 
 #### Create / Edit Content
 This one is more time intensive, but it offers larger personal rewards. By creating content, you are directly contributing to both the DappSociety and the World knowledge base while simultaneously building exposure and a reputation for yourself.
